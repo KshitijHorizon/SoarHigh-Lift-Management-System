@@ -1,0 +1,27 @@
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\Dell\Desktop\KshitijPCPS\LiftServerSystem-master (1)\LiftServerSystem-master\ElevatorControl\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.pdb
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.pdb
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\Dell\Desktop\KshitijElevatorSystem\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\obj\Debug\ElevatorControl.pdb
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\obj\Debug\ElevatorControl.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\Dell\Desktop\1723333 Kshitij\ElevatorControllerSystem\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.Cache
